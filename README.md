@@ -42,7 +42,7 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 > ### 🎓 Learning
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+> ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
 ## 📫 Contact
