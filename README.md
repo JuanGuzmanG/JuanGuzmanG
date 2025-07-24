@@ -40,5 +40,5 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ## 📫 Contact
-- 💼 LinkedIn: [linkedin.com/in/tuPerfil]([https://linkedin.com/in/tuPerfil](https://www.linkedin.com/in/juanguzmang/))
+- 💼 LinkedIn: [linkedin.com]([https://linkedin.com/in/tuPerfil](https://www.linkedin.com/in/juanguzmang/))
 - 🌍 Cali, Colombia
