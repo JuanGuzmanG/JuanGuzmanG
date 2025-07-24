@@ -14,6 +14,7 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-2F5CDB?style=flat&logo=oauth&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-5BC0DE?style=flat&logo=mocha&logoColor=white)
 
 > ### 🎨 FrontEnd
 > ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
