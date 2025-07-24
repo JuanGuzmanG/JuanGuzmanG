@@ -42,5 +42,4 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanguzmang/)
-![Location](https://img.shields.io/badge/🌍%20Cali,%20Colombia-FFFFFF?style=for-the-badge&labelColor=gray)
 
