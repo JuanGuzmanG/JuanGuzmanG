@@ -39,6 +39,8 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 ## 📫 Contact
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanguzmang/)
-- 🌍 Cali, Colombia
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanguzmang/)
+![Location](https://img.shields.io/badge/🌍%20Cali,%20Colombia-FFFFFF?style=for-the-badge&labelColor=gray)
+
