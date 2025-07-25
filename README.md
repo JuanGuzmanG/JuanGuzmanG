@@ -18,7 +18,7 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 
 > ### 🎨 FrontEnd
 > ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular%20Material-C2185B?style=flat&logo=angular&logoColor=white
+![Angular Material](https://img.shields.io/badge/Angular%20Material-C2185B?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
