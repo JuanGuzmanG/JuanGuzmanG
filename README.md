@@ -1,4 +1,4 @@
-# Hey there! I'm Juan Jose 👋
+# Hey there! I'm Juan Guzman 👋
 
 I'm an 8th semester Systems Engineering student and Full-Stack developer, passionate about web development and artificial intelligence.
 
