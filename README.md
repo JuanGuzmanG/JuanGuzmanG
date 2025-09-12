@@ -6,10 +6,13 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 > ### 🛠️ Backend
 >![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-0052CC?style=flat)
-![SOAP](https://img.shields.io/badge/SOAP-0081C6?style=flat)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF9800?style=flat)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-5BC0DE?style=flat&logo=mocha&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-2F5CDB?style=flat&logo=oauth&logoColor=white)
+
 
 > ### 🎨 FrontEnd
 > ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
