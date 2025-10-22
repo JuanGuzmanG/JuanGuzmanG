@@ -1,6 +1,6 @@
 # Hey there! I'm Juan Guzman 👋
 
-I'm an 8th semester Systems Engineering student and Full-Stack developer, passionate about web development and artificial intelligence.
+I'm an 8th semester Systems Engineering student and Back-end developer, passionate about web development and artificial intelligence.
 
 #### 🛠️ Main Technologies
 > ### 🛠️ Backend
@@ -16,8 +16,6 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 
 > ### 🎨 FrontEnd
 > ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Angular Material](https://img.shields.io/badge/Angular%20Material-C2185B?style=flat&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -30,7 +28,8 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 
 > ### 🗄️ Database
 > ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?)
 
 > ### ⚙️ DevOps
 > ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -41,8 +40,7 @@ I'm an 8th semester Systems Engineering student and Full-Stack developer, passio
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 > ### 🎓 Learning
-> ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-
+>![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?)
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanguzmang/)
 
