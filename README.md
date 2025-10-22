@@ -4,7 +4,8 @@ I'm an 8th semester Systems Engineering student and Back-end developer, passiona
 
 #### 🛠️ Main Technologies
 > ### 🛠️ Backend
->![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+> ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=nodedotjs&logoColor=white)
 ![REST](https://img.shields.io/badge/REST-0052CC?style=flat)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF9800?style=flat)
@@ -29,7 +30,7 @@ I'm an 8th semester Systems Engineering student and Back-end developer, passiona
 > ### 🗄️ Database
 > ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 
 > ### ⚙️ DevOps
 > ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -40,7 +41,8 @@ I'm an 8th semester Systems Engineering student and Back-end developer, passiona
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 > ### 🎓 Learning
->![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?)
+>![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat&logo=apachekafka&logoColor=white)
+
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanguzmang/)
 
